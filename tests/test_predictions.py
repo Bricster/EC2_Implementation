@@ -12,7 +12,7 @@ from sklearn.metrics import accuracy_score
 
 from titanic_model.predict import make_prediction
 
-
+#test
 def test_make_prediction(sample_input_data):
     # Given
     expected_no_predictions = 179
